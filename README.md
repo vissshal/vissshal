@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development as well as Software Developer
 - 🌱 I’m currently learning Wagtail, React and DSA
 - 💞️ I’m looking to collaborate on Frontend as well as Backend projects
-- 📫 You may connect with me through https://bit.ly/3miB5sl , https://bit.ly/33IUMmU
+- 📫 You may connect with me through bit.ly/3miB5sl , bit.ly/33IUMmU
 
 <!---
 vissshal/vissshal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

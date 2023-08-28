@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vishal Kumar, A Pre-final Year student in the Department of Mechanical Engineering at IIT Guwahati
+- 👋 Hi, I’m Vishal Kumar, A Final Year student in the Department of Mechanical Engineering at IIT Guwahati
 - 👀 I’m interested in Web Development as well as Software Developer
 - 🌱 I’m currently learning ReactJS, NodeJS and DSA
 - 💞️ I’m looking to collaborate on Frontend as well as Backend projects
